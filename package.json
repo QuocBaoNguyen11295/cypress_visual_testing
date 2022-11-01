@@ -1,0 +1,28 @@
+{
+  "name": "cypress_visual_testing",
+  "version": "1.0.0",
+  "description": "Visual testing with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuocBaoNguyen11295/cypress_visual_testing.git"
+  },
+  "keywords": [
+    "Visual_testing",
+    "cypress"
+  ],
+  "author": "Quoc Bao Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuocBaoNguyen11295/cypress_visual_testing/issues"
+  },
+  "homepage": "https://github.com/QuocBaoNguyen11295/cypress_visual_testing#readme",
+  "dependencies": {
+    "cypress": "^4.12.1",
+    "cypress-image-snapshot": "^4.0.1",
+    "prettier": "^2.7.1"
+  }
+}
