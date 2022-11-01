@@ -1,0 +1,1 @@
+# cypress_visual_testing
